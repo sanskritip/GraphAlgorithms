@@ -25,7 +25,7 @@ gcc MaximalMatching.c
 ```
 
 Sample Input:
-
+```
 Considering Bipartite Graph K(m,n) enter the values of (M N): 4 3
 Number of edges :5
 Enter Edge(V1 V2) with V1 belonging to Vm and V2 belonging to Vn
@@ -34,9 +34,9 @@ Edge 2 :1 1
 Edge 3 :2 0
 Edge 4 :2 2
 Edge 5 :3 2
-
+```
 Sample Output:
-
+```
 Matrix representing graph edges :
 0 1 0 
 0 1 0 
@@ -47,3 +47,4 @@ Matching from Vm to Vn are :
 0 -> 1
 3 -> 2
 Maximum Matchings from Vm to Vn are : 3
+```

@@ -18,7 +18,7 @@ gcc BoruvkasAlgo.c
 ```
 
 Sample Input :
-
+```
 Number of vertices: 5
 Number of edges: 6
 
@@ -28,9 +28,9 @@ Edge2 :0 2
 Edge3 :2 3
 Edge4 :3 1
 Edge5 :3 4
-
+```
 Sample Output:
-
+```
 The vertices are colored in the following pattern:
 Vertex 0 Color 3
 Vertex 1 Color 1
@@ -38,3 +38,4 @@ Vertex 2 Color 1
 Vertex 3 Color 2
 Vertex 4 Color 3
 Chormatic number is : 3
+```

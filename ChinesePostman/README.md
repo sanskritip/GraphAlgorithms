@@ -14,7 +14,7 @@ not be Eulerian.
 8) Print Euler Circuit of the modified graph. This Euler Circuit is Chinese Postman Tour. 
 
 Sample input:
-
+```
 Number of vertices: 4
 Number of edges: 4
 
@@ -23,9 +23,10 @@ Edge1 :0 1 2
 Edge2 :1 2 4
 Edge3 :2 3 5
 Edge4 :3 0 6
-
+```
 Sample output:
-
+```
 Number of odd degree vertices : 0
 Graph contains Eulerian circuit and hence miniumun cost path is given by sum of all edge weights.
 Minimun weight path for the Chinese postman problem has cost :17
+```

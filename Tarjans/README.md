@@ -28,13 +28,14 @@ gcc Tarjans.c
 ```
 
 Sample Input:
-
+```
 No. of vertices :4
 No. of edges :3
 Edge 1 :0 1
 Edge 2 :1 2
 Edge 3 :2 3
-
+```
 Sample Output:
-
+```
 Vertex 2
+```

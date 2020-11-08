@@ -22,7 +22,7 @@ gcc BoruvkasAlgo.c
 ./a.exe
 ```
 Sample Input:
-
+```
 Number of vertices: 5
 Number of edges: 5
 Graph with 5 Edges 5 Vertices
@@ -32,9 +32,9 @@ Edge 2  :0 2 9
 Edge 3  :2 3 4
 Edge 4  :3 1 26
 Edge 5  :3 4 20
-
+```
 Sample output:
-
+```
 MST construction
 Edge 0-3 included in MST
 Edge 3-1 included in MST
@@ -42,3 +42,4 @@ Edge 2-3 included in MST
 Edge 3-4 included in MST
 Number of components after iteration: 1
 Weight of MST is 56
+```

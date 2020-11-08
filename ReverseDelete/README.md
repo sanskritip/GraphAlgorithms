@@ -20,7 +20,7 @@ gcc ReverseDelete.c
 ```
 
 Sample Input:
-
+```
 Number of vertices: 5
 Number of edges: 7
 Graph with 7 Edges 5 Vertices
@@ -32,11 +32,12 @@ Edge 4  :1 3 11
 Edge 5  :2 3 15
 Edge 6  :2 4 10
 Edge 7  :3 4 7
-
+```
 Sample output:
-
+```
 Edge (2 , 4) included in MST
 Edge (0 , 1) included in MST
 Edge (3 , 4) included in MST
 Edge (0 , 2) included in MST
 Weight of MST is 30
+```
